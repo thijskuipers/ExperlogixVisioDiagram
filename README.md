@@ -54,8 +54,8 @@ Enter a number and press Enter.
 
 It will ask you to choose a Model:
 
-    [1] Disk Axle Assembly
-    [2] Drum Axle Assembly
+    [1] Model 1
+    [2] Model 2
     Choose the model [1 - 2]: 
 
 Enter a number and press Enter
