@@ -17,12 +17,15 @@ This tool is inspired by the "metadatadiagram" tool of the Microsoft Dynamics CR
 Locate the Experlogix database (it's a \*.mdb file) Make sure the Experlogix database is not in use. It is in use when there is a \*.ldb file located next to it. Make sure you've closed the Experlogix configuration application.
 
 ### Configuration
+
 You can either:
 
 #### Move and rename the database
+
 Copy the database file to the application folder and rename it to "Experlogix.mdb".
 
 #### Edit the configuration file
+
 Edit the Broes.Experlogix.VisioDiagram.exe.config file to point to the correct location of the
 Experlogix MDB file:
 
@@ -33,25 +36,34 @@ Experlogix MDB file:
 It's the bit after the `Data Source=` between the two `&quot;`'s. Make sure you keep the two `&quot;`'s!
 
 ### Run the application
+
 To run the application, open the Broes.Experlogix.VisioDiagram.exe file.
 
 #### Choose Series
+
 If the application is configured correct, it will ask you to choose a Series:
+
     [1] Series 1
     [2] Series 2
     [3] Series 3
     Choose the series [1 - 3]: 
+
 Enter a number and press Enter.
 
 #### Choose Model
+
 It will ask you to choose a Model:
+
     [1] Disk Axle Assembly
     [2] Drum Axle Assembly
     Choose the model [1 - 2]: 
+
 Enter a number and press Enter
 
 #### Output
+
 The application will now draw the dependency diagram and will give feedback on its progress:
+
     Drawing 38 categories...
     Drawing 29 rules...
     Drawing 12 lists...
