@@ -97,3 +97,16 @@ If the tool ran successfully, you will see a Visio document with the generated d
   * [Microsoft Office 2010: Primary Interop Assemblies Redistributable](http://www.microsoft.com/en-us/download/details.aspx?id=3508)
   * [2007 Microsoft Office System Update: Redistributable Primary Interop Assemblies](http://www.microsoft.com/en-us/download/details.aspx?id=18346)
   * [Office 2003 Update: Redistributable Primary Interop Assemblies](http://www.microsoft.com/en-us/download/details.aspx?id=20923)
+
+## Author
+
+Thijs Kuipers
+
+* http://www.broes.nl
+* http://twitter.com/thijsbroes
+
+## Copyright and license
+
+Copyright (c) 2012 Thijs Kuipers
+
+This work is licensed under the Creative Commons Attribution 3.0 Unported License. To view a copy of this license, visit [http://creativecommons.org/licenses/by/3.0/](http://creativecommons.org/licenses/by/3.0/).
