@@ -16,6 +16,10 @@ This tool is inspired by the "metadatadiagram" tool of the Microsoft Dynamics CR
 
 Locate the Experlogix database (it's a \*.mdb file) Make sure the Experlogix database is not in use. It is in use when there is a \*.ldb file located next to it. Make sure you've closed the Experlogix configuration application.
 
+### Download
+
+The latest build of the application can be found under [downloads](https://github.com/thijskuipers/ExperlogixVisioDiagram/downloads). You can also build the application from source (either clone or download as [zip](https://github.com/thijskuipers/ExperlogixVisioDiagram/zipball/master)/[tar.gz](https://github.com/thijskuipers/ExperlogixVisioDiagram/tarball/master)).
+
 ### Configuration
 
 You can either:
